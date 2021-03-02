@@ -30,7 +30,7 @@ Here under a list of special function that shall be granted just to the "origins
 
 *the dependency cutter can be either a timebomb or a kill button.
 
-Front End Version v0.0
+#Front End Version v0.0
 I just started out using the Open Zeppelin files. I woul like to make this contract as light weight as possible to minimize users deployment gas fees, I actually still don't know how to do this, but I know it is possible!!
 
 The first test version will be deployd on the the Goerli Test net.
